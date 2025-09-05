@@ -272,3 +272,6 @@ F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\bin\Debug\net9.0\z
 F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\obj\Debug\net9.0\ExpenseTrackerApp.sourcelink.json
+F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\RajProjects\dotnet\HouseholdExpenseApp\HouseholdExpenseApp\bin\Debug\net9.0\BCrypt.Net-Next.dll

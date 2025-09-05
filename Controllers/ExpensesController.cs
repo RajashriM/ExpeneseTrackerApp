@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ExpenseTrackerApp.Data;
 using ExpenseTrackerApp.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ExpenseTrackerApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ExpensesController : ControllerBase
     {
         private readonly AppDbContext _context;
